@@ -1,0 +1,14 @@
+
+*{
+  margin: 0px;
+  padding: 0;
+  
+}  
+
+body{
+
+  height: auto;
+  background-image: linear-gradient(#d8c7ff,#19006c);
+  font-family: 'Arimo ','poppins';
+}
+
